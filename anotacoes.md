@@ -81,14 +81,14 @@
 ### Listas
 - Lista ordenada:
     - Para criar uma lista ordenada, usa-se a tag `<ol>` para delimitação e `<li>` para cada item.
-    ```
-    <ol type="tipo" start="primeiro item">
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-      <li>Item 4</li>
-    </ol>
-    ```
+      ```
+      <ol type="tipo" start="primeiro item">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+        <li>Item 4</li>
+      </ol>
+      ```
     - Tipos de Lista Ordenada:
       - 1 - Valor padrão, com lista numerada
       - A - Lista separada por letras maiúsculas
