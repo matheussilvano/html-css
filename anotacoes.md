@@ -19,7 +19,7 @@
 </html>
 ```
 
-`h1` -> Cria um título
+`h1` -> Cria um título <br>
 `hr` -> Cria uma linha horizontal
 `p` -> Cria um parágrafo
 `br` -> Quebra um texto
