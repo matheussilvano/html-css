@@ -110,3 +110,43 @@
       - disc -> padrão, bola preta totalmente pintada
       - circle -> bola com borda preta sem preenchimento
       - square -> quadrado totalmente pintado
+   
+### Links
+- Para criar um link, é criado uma âncora `<a>` com o atributo `href` com o link desejado.
+  ```
+  <a href="www.link.com">Acesse meu Link</a>
+  ```
+- Pode-se usar o atributo `hreflang` para específicar o idioma do site presente no link
+- Pode-se usar o atributo `target` para especificar se o link vai ser aberto na mesma ou em outra janela.
+  ```
+  <a href="www.link.com" target="_self">
+    Continuar navegando no site
+  </a>
+  ```
+  <br>
+  
+  ```
+  <a href="www.link.com" target="_blank">
+    Abrir site em outra janela
+  </a>
+  ```
+
+- Para downloads, basta utilizar o atributo `download` com o nome do arquivo a ser baixado.
+  ```
+  <a href="livro.pdf" download="livro.pdf" type="application/pdf">
+    Baixe arqui o PDF do meu livro
+  </a>
+  ```
+  - media types mais comuns:
+    ‣ application/zip
+    ‣ text/html
+    ‣ text/css
+    ‣ text/javascript
+    ‣ video/mp4
+    ‣ video/H264
+    ‣ video/JPEG
+    ‣ audio/aac
+    ‣ audio/mpeg
+    ‣ font/ttf
+    ‣ image/jpeg
+    ‣ image/png 
