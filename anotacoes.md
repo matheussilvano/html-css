@@ -20,9 +20,9 @@
 ```
 
 `h1` -> Cria um título <br>
-`hr` -> Cria uma linha horizontal
-`p` -> Cria um parágrafo
-`br` -> Quebra um texto
-`&lt;` -> Cria um <
-`&gt;` -> Cria um >
+`hr` -> Cria uma linha horizontal <br>
+`p` -> Cria um parágrafo <br>
+`br` -> Quebra um texto <br>
+`&lt;` -> Cria um < <br>
+`&gt;` -> Cria um > <br>
 
