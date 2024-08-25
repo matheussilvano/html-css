@@ -106,7 +106,7 @@
       <li>Item 4</li>
     </ul>
     ```
-    - Tipos de lista não ordenada:
+  - Tipos de lista não ordenada:
       - disc -> padrão, bola preta totalmente pintada
       - circle -> bola com borda preta sem preenchimento
       - square -> quadrado totalmente pintado
