@@ -138,15 +138,15 @@
   </a>
   ```
   - media types mais comuns:
-    ‣ application/zip
-    ‣ text/html
-    ‣ text/css
-    ‣ text/javascript
-    ‣ video/mp4
-    ‣ video/H264
-    ‣ video/JPEG
-    ‣ audio/aac
-    ‣ audio/mpeg
-    ‣ font/ttf
-    ‣ image/jpeg
-    ‣ image/png 
+    ‣ application/zip<br>
+    ‣ text/html<br>
+    ‣ text/css<br>
+    ‣ text/javascript<br>
+    ‣ video/mp4<br>
+    ‣ video/H264<br>
+    ‣ video/JPEG<br>
+    ‣ audio/aac<br>
+    ‣ audio/mpeg<br>
+    ‣ font/ttf<br>
+    ‣ image/jpeg<br>
+    ‣ image/png<br>
