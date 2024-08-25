@@ -156,3 +156,43 @@
 
 ### Vídeo
 `<video src="meu-video.mp4" width="500" poster"thumbnail.png" controls></video>`
+
+## CSS
+
+### Psicologia das cores
+- Cores são mais importantes do que parecem
+- A harmonia visual de um site pode prender 90% mais pessoas
+- Azul: É muito usado em empresas de tecnologia, tem ligação com competência, calma, segurança e profissionalismo. É a cor com menor taxa de rejeição.
+- Vermelho: Associado para entretenimento e comida.
+- Amarelo: Remete a felicidade, também muito usado por sites de comida.
+- Verde: Tem a ver com ecologia, natureza, dinheiro.
+- Rosa: Muito usado para produtos femininos, como cosméticos, passa um tom mais delicado
+- Marrom: Pode trazer uma ideia de luxo ou de robustês
+
+### Harmonia de cores
+- Círculo cromático: Possui milhões de cores, é utilizado para harmonizar as cores.
+    - Cores primárias: Amarelo, Vermelho, Azul
+    - Cores secundárias: Laranja, vermelho e verde
+    - Cores terciárias: A mistura de cores primárias com secundárias
+
+![image](https://github.com/user-attachments/assets/5dccdf57-5a3e-4c42-abd2-48db1b77776e)
+
+- Temperatura, podem ser divididas em quentes e frias:
+![image](https://github.com/user-attachments/assets/ea47ef15-2597-409e-bc7f-ace5739c5c3f)
+
+- Cores complementares: São as que apresentam maior contraste, ficam do lado posto do círculo cromático:
+![image](https://github.com/user-attachments/assets/0aa24d78-60c5-4e22-b325-1f056ac440fd)
+
+- Cores análogas: São as cores vizinhas entre si
+![image](https://github.com/user-attachments/assets/5e001780-4487-4553-bf03-17c1acb7f395)
+
+
+- Adobe color: Cria paletas e extrai paletas de logo
+- Paletton: Aplica em um exemplo de site
+- Coolors: Dá sugetões aleatórias
+
+### Gradiente no CSS (background)
+`background-image: linear-gradient(to right, white, blue);`
+
+
+
