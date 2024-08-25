@@ -137,7 +137,7 @@
     Baixe arqui o PDF do meu livro
   </a>
   ```
-  - media types mais comuns:
+  - media types mais comuns:<br>
     ‣ application/zip<br>
     ‣ text/html<br>
     ‣ text/css<br>
