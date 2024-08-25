@@ -183,9 +183,8 @@
 - Cores complementares: São as que apresentam maior contraste, ficam do lado posto do círculo cromático:
 ![image](https://github.com/user-attachments/assets/0aa24d78-60c5-4e22-b325-1f056ac440fd)
 
-- Cores análogas: São as cores vizinhas entre si
-![image](https://github.com/user-attachments/assets/5e001780-4487-4553-bf03-17c1acb7f395)
-
+- Cores análogas: São as cores vizinhas entre si <br>
+![image](https://github.com/user-attachments/assets/5e001780-4487-4553-bf03-17c1acb7f395)<br>
 
 - Adobe color: Cria paletas e extrai paletas de logo
 - Paletton: Aplica em um exemplo de site
