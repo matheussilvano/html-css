@@ -45,4 +45,37 @@
 - Estrutura completa: `link real="shortcut icon" href="favicon.ico" type="image/x-icon">`
 
 ### Hierarquia de Títulos
-- Títulos possuem 6 níveis de hierarquia: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`. Sendo `<h2>` um sub-assunto de `<h1>` e assim por diante 
+- Títulos possuem 6 níveis de hierarquia: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`. Sendo `<h2>` um sub-assunto de `<h1>` e assim por diante
+
+
+### Semântica dentro do HTML
+- A maior adição do HTML5 foi a semântica, ou seja, a adição de significado à um conjunto de palavras.
+- Por exemplo: É um lugar lindo de se morar, ficando na `<adress>`Rua dos Bobos, 0`</adress>`
+- Foi adicionado um sentido "adress" à um endereço. Possibilitando que, por exemplo, um navegador de celular possa sugerir como um endereço no gps.
+- O intuito da W3C, que normatiza o html, é deixar as tags cada vez mais semânticas, deixando os estilos apenas para o CSS.
+- Existem tags que estão se tornando obsoletas, como `<font>` e `<center>` e otras que já foram excluídas, como `<blink>`.
+- A própria W3C sugere usar `<strong>` para textos em negrito no lugar de `<b>`, pois descreve um texto forte e não apenas um negrito.
+- Algumas tags utilizadas:
+    - `<strong>` -> negrito
+    - `<em>` -> Itálico
+    - `<mark` -> Destacado
+    - `<del>` -> Riscado
+    - `<ins>` -> Sublinhado
+    - `<sub>` -> Sobrescito
+    - `<sup>` -> Subscrito
+    - `<code>` -> Para Códigos
+    - `<pre><code>` -> Também para códigos, mas com tabulações corretas
+    - `<q>`-> Para citações dentro de um texto
+    - `<blockquote>` -> Para um parágrafo inteiro de cirações
+    - Pode-se usar o parâmetro `cite` para direcionar para o texto original:<br>
+      ```
+      <blockquote cite="https://www.siteoriginal.com/citacao">
+        Na minha terra tem palmeiras onde canta o sabiá...
+      </blockquote>
+      ```
+    - `<abbr>` -> Para abreviações<br>
+      ```
+      <p>Eu estou estudando <abbr title="Hyper Text Markup Language">HTML</abbr> para criar sites.</p>
+      ```
+    - 
+      
