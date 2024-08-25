@@ -77,5 +77,36 @@
       ```
       <p>Eu estou estudando <abbr title="Hyper Text Markup Language">HTML</abbr> para criar sites.</p>
       ```
-    - 
-      
+
+### Listas
+- Lista ordenada:
+    - Para criar uma lista ordenada, usa-se a tag `<ol>` para delimitação e `<li>` para cada item.
+    ```
+    <ol type="tipo" start="primeiro item">
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <li>Item 4</li>
+    </ol>
+    ```
+    - Tipos de Lista Ordenada:
+      - 1 - Valor padrão, com lista numerada
+      - A - Lista separada por letras maiúsculas
+      - a - Lista separada por letras minúsculas
+      - I -> Algarismos romanos maiúsculos
+      - i -> Algarismos romanos minúsculos
+
+- Lista não ordenada
+  - Para criar uma lista não ordenada, usa-se a tag `<ul>` para delimitação e `<li>` para cada item.
+    ```
+    <ul type="tipo">
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <li>Item 4</li>
+    </ul>
+    ```
+    - Tipos de lista não ordenada:
+      - disc -> padrão, bola preta totalmente pintada
+      - circle -> bola com borda preta sem preenchimento
+      - square -> quadrado totalmente pintado
