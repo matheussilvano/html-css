@@ -150,3 +150,9 @@
     ‣ font/ttf<br>
     ‣ image/jpeg<br>
     ‣ image/png<br>
+
+### Áudio
+`<audio src="musica.mp3" controls autoplay></audio>`
+
+### Vídeo
+`<video src="meu-video.mp4" width="500" poster"thumbnail.png" controls></video>`
